@@ -1,0 +1,10 @@
+Transaction No,Integer,Unique Transaction  ID,Group Items brought together
+Items,String,Product Purchased,Used for sales analysis
+DateTime,DateTime,Product Purchased,Time based trend analysis
+Daypart,String,Morning/Afternoon/Evening,Peak time analysis
+DayType,String,Weekday/Weekend,Compare buying behavoiur
+Date,Date,Extracted Purchase date,Daily sales analysis
+Time,Time,Extracted Purchase time,Hourly analysis
+Year,Integer,Purchase Year,Yearly Trend
+Month,Integer,Purchase Month,Monthly Trend
+Hour,Integer,Purchase Hour,Peak hour detection
